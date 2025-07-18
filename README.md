@@ -1,37 +1,64 @@
-# Wikipedia Clone
-✏️ Developed using html , css and javascript ❗
+# 🌐 Wikipedia Clone
 
-# Project link
+🎨 A simple yet sleek **Wikipedia Clone** crafted with ❤️ using **HTML**, **CSS**, and **JavaScript**.
 
-<a href="https://mithesh14.github.io/Wikipedia-clone/">Wikipedia Clone</a>
+> 🔗 [Live Project Link](https://princyrusty.github.io/Wikipedia-clone/)
 
-# Screenshots 
+---
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image1.jpg)
+## ✨ Features
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image2.jpg)
+- Search Wikipedia directly from the UI
+- Clickable cards that redirect to the real Wikipedia page for the topic
+- Responsive and minimal design for a clean user experience
+- Smart error handling for invalid or empty searches
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image3.jpg)
+---
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image4.jpg)
+## 📸 Screenshots
 
-## ➡️ On clicking the box , it will lead to the wikipedia page of the corresponding topic present in the box ❗
+> 🛠️ UI Developed by **Princy Rastogi**
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image5.jpg)
+### 🌆 Homepage – Topic Cards View
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image6.jpg)
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image1.jpg" alt="Screenshot 1" width="700"/>
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image2.jpg" alt="Screenshot 2" width="700"/>
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image3.jpg" alt="Screenshot 3" width="700"/>
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image4.jpg" alt="Screenshot 4" width="700"/>
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image7.jpg)
+---
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image8.jpg)
+### 🔗 On Clicking Any Card
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image9.jpg)
+Each card leads directly to the official Wikipedia page for that topic!
 
-## ➡️ If either there is no data available for your search or your search has errors, the page will display this ❗
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image5.jpg" width="700"/>
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image6.jpg" width="700"/>
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image7.jpg" width="700"/>
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image8.jpg" width="700"/>
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image9.jpg" width="700"/>
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image10.jpg)
+---
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image11.jpg)
+### ❌ No Data / Error Handling
 
-## ➡️ The API used for wikipedia data : https://en.wikipedia.org/w/api.php? ❗
+Graceful fallback UI in case of a bad or empty search:
 
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image10.jpg" width="700"/>
+<img src="https://raw.githubusercontent.com/princyrusty/Wikipedia-clone/main/images/image11.jpg" width="700"/>
+
+---
+
+## 🔌 Wikipedia API Used
+
+All data is fetched in real-time using the [Wikipedia API](https://en.wikipedia.org/w/api.php)
+
+---
+
+## 💡 Inspiration & Credits
+
+> This project is a simple clone aimed to explore frontend development fundamentals and API integration.
+
+---
+
+Made with ☕, 💻, and a little bit of ✨ by **Princy Rastogi**
